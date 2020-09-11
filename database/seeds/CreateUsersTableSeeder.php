@@ -12,5 +12,6 @@ class CreateUsersTableSeeder extends Seeder
     public function run()
     {
         //
-    }
+
+}
 }
